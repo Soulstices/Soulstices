@@ -4,7 +4,7 @@ In web development, I mostly focus on the frontend and use **JavaScript**, **Typ
 
 In addition to frontend, I am also interested in backend development and aim to become a full-stack developer in the future.
 
-In game development, I have worked with MySQL databases, edited data in the database using SQL queries, and developed my own game with Unreal Engine.
+In game development, I have worked with **MySQL** databases, edited data in the database using **SQL** queries, and developed my own game with **Unreal Engine**.
 
 ## My Own Projects:
 - **Unnamed Project [*IN DEVELOPMENT*]**. A game engine designed for creating complex text-based games with non-linear dialogues. It features a visual scripting system similar to **Unreal Engine's Blueprints**, making it accessible for non-programmers, and allows users to visually see the intricate branching of dialogues. Built with **TypeScript**, **React**, and **Electron**, it supports packaging games as either desktop or web applications. I plan to open-source it once the core features are complete.

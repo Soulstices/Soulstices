@@ -26,4 +26,4 @@ In game development, I have worked with **MySQL** databases, edited data in the 
 
 **Game Engines:** Unreal Engine 4, Unreal Engine 5
 
-**Other:** HTML & CSS, SQL, Bootstrap, Tailwind, Electron
+**Other:** HTML & CSS, SQL, Bootstrap, Tailwind, Electron, Figma, Adobe Photoshop

@@ -1,6 +1,6 @@
-My name is Hennadii. I'm a 27-year-old developer from Ukraine, currently living in Norway. Right now, I'm taking a course called Kodehode, where we learn C#, ASP.NET, and Azure. I have previous experience with both game and web development.
+My name is Hennadii. I'm a 27-year-old developer from Ukraine, currently living in Norway. Right now, I'm taking a course called Kodehode, where we learn **C#**, **ASP.NET**, and **Azure**. I have previous experience with both game and web development.
 
-In web development, I mostly focus on the frontend and use JavaScript, TypeScript, React, Next.js, and Svelte in my projects.
+In web development, I mostly focus on the frontend and use **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Svelte** in my projects.
 
 In addition to frontend, I am also interested in backend development and aim to become a full-stack developer in the future.
 
@@ -11,14 +11,14 @@ In game development, I have worked with MySQL databases, edited data in the data
 
 - **TaskWave [*IN DEVELOPMENT*]**. A project management tool similar to **Trello** with additional features that I've found missing while developing my own game. Built with **React**, **Next.js**, and **Supabase**, it is still missing some basic functionality, but I'm already using it to manage my personal projects. I plan to make it publicly available once the core features are complete.
 
-- **[Checked](https://github.com/Soulstices/checked-todo-app)**. A simple open-source To-Do app built with **Svelte**. It operates without the need for a backend server, utilizing local storage to store tasks and encoding data into URLs for easy sharing. This means you can share your task list with others by simply sharing the generated link. Additionally, **Checked** can be packaged as a desktop app using **Electron**.
+- **[Checked](https://github.com/Soulstices/checked-todo-app)**. A simple open-source To-Do app built with **Svelte**. I started working on this project while learning **JavaScript**, then rewrote it using **Svelte** and added **TypeScript**. In addition to the basic functionality of a to-do app, I implemented task sharing without storing user data. Data is encoded into URLs, making it easy to share tasks with others. When opening a URL, the app checks for encoded data and attempts to decode it to load tasks.
 
-- **[Cursed Spire](https://store.steampowered.com/app/1858460/Cursed_Spire/) (2020 - 2022)**. A multiplayer game built with **Unreal Engine 4**, combining aspects of RPG and survival genres. The game allows players to explore unknown islands, build homes, and engage with other players in a world filled with mysteries and dangers. Developed independently in my free time alongside my main job, I planned to publish it on Steam by the end of 2022. However, I couldn't finish the game due to the war in Ukraine.
+- **[Cursed Spire](https://store.steampowered.com/app/1858460/Cursed_Spire/) (2020 - 2022)**. A multiplayer game built with **Unreal Engine 4**, combining aspects of RPG and survival genres. The game allows players to explore unknown islands, build homes, and engage with other players in a world filled with mysteries and dangers. Developed independently in my free time alongside my main job, I planned to publish it on **Steam** by the end of 2022. However, I couldn't finish the game due to the war in Ukraine.
 
-## Skills:
+## Experienced with:
 **Programming Languages:** JavaScript/TypeScript, C#, Python
 
-**Frontend Frameworks/Libs:** React, Next.js, Svelte, SvelteKit
+**Frontend Frameworks/Libraries:** React, Next.js, Svelte, SvelteKit
 
 **Backend Frameworks:** Django, ASP.NET
 

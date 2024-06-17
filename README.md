@@ -1,6 +1,6 @@
 My name is Hennadii. I'm a 27-year-old developer from Ukraine, currently living in Norway. Right now, I'm taking a course called **[Kodehode](https://jobloop.no/kodehode-modellen)**, where we learn **C#**, **ASP.NET**, and **Azure**. I have previous experience with both game and web development.
 
-In web development, I mostly focus on the frontend and use **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Svelte** in my projects.
+In web development, I mostly focus on frontend and use **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Svelte** in my projects.
 
 In addition to frontend, I am also interested in backend development and aim to become a full-stack developer in the future.
 

@@ -1,4 +1,4 @@
-My name is Hennadii. I'm a 27-year-old developer from Ukraine, currently living in Norway. Right now, I'm taking a course called Kodehode, where we learn **C#**, **ASP.NET**, and **Azure**. I have previous experience with both game and web development.
+My name is Hennadii. I'm a 27-year-old developer from Ukraine, currently living in Norway. Right now, I'm taking a course called **[Kodehode](https://jobloop.no/kodehode-modellen)**, where we learn **C#**, **ASP.NET**, and **Azure**. I have previous experience with both game and web development.
 
 In web development, I mostly focus on the frontend and use **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Svelte** in my projects.
 

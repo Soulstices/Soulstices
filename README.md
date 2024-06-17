@@ -6,7 +6,7 @@ In addition to frontend, I am also interested in backend development and aim to 
 
 In game development, I have worked with **MySQL** databases, edited data in the database using **SQL** queries, and developed my own game with **Unreal Engine**.
 
-## My Own Projects:
+## My Projects:
 - **Unnamed Project [*IN DEVELOPMENT*]**. A game engine designed for creating complex text-based games with non-linear dialogues. It features a visual scripting system similar to **Unreal Engine's Blueprints**, making it accessible for non-programmers, and allows users to visually see the intricate branching of dialogues. Built with **TypeScript**, **React**, and **Electron**, it supports packaging games as either desktop or web applications. I plan to open-source it once the core features are complete.
 
 - **TaskWave [*IN DEVELOPMENT*]**. A project management tool similar to **Trello** with additional features that I've found missing while developing my own game. Built with **React**, **Next.js**, and **Supabase**, it is still missing some basic functionality, but I'm already using it to manage my personal projects. I plan to make it publicly available once the core features are complete.

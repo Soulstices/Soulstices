@@ -1,4 +1,4 @@
-My name is Hennadii. I'm a 27-year-old developer from Ukraine, currently living in Norway. Right now, I have an internship at DeepOcean, where I work on different projects made with Unreal Engine 5.  Before that, I was on a course called **[Kodehode](https://jobloop.no/kodehode-modellen)**, where we learned **C#**, **ASP.NET**, and **Azure**. I have previous experience with both game and web development.
+My name is Hennadii. I'm a 27-year-old developer from Ukraine, currently living in Norway. Right now, I have an internship at **DeepOcean**, where I work on different projects made with Unreal Engine 5.  Before that, I was on a course called **[Kodehode](https://jobloop.no/kodehode-modellen)**, where we learned **C#**, **ASP.NET**, and **Azure**. I have previous experience with both game and web development.
 
 In web development, I mostly focus on frontend and use **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Svelte** in my projects.
 

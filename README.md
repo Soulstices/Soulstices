@@ -1,0 +1,3 @@
+Full-stack developer specializing in web applications and real-time visualizations with a unique background bridging web and game development.
+My main stack is JavaScript/TypeScript, React/Next.js, Node.js/Express.js but I also have solid experience with Python, C#, Unreal Engine 5, and working with various databases like PostgreSQL, MySQL, and InfluxDB.
+I'm passionate about creating tools that make complex workflows accessible to everyone. Currently developing StoryFlow Editor, a visual scripting tool for interactive storytelling that lets non-programmers design branching narratives through intuitive node-based interfaces.
